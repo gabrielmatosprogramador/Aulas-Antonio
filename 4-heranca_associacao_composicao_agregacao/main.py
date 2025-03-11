@@ -10,7 +10,7 @@ def main():
     ag2 = Agencia('0002', '(51)9999', 'Rua tal 2',)
     cat1 = Categoria('Top', 10000.00, 'Super Conta')
     cat2 = Categoria('Media', 5000.00, 'Conta Poupanca')
-    cat3 = Categoria('Comun', 100.00, 'Conta Universitaria')
+    cat3 = Categoria('Comum', 100.00, 'Conta Universitaria')
     p1 = Pessoa('Guilherme Silva', 'Rua tal 3')
     p2 = Pessoa('Antonio Silva', 'Rua tal 4')
     cc1 = ContaCorrente('1111', 0, p1, ag2, cat2)

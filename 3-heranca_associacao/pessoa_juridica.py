@@ -1,5 +1,7 @@
 from pessoa import Pessoa
 
+
+#Para herdar, importa a classe pessoa e chama a Pessoa. Após passa como parâmetro dentro da classe que estende:
 class PessoaJuridica(Pessoa):
 
     def __init__(self, nome, endereco,  cnpj):
