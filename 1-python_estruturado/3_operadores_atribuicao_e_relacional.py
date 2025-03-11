@@ -17,6 +17,6 @@ True
 
 False
 
-# Not True
+Not True
 
-# Not False
+Not False
