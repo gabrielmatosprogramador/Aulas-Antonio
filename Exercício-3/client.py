@@ -1,4 +1,4 @@
-from Person import Person
+from person import Person
 
 class Client(Person):
     def __init__(self, first_name, last_name, adress, cell_phone, email, gender):
